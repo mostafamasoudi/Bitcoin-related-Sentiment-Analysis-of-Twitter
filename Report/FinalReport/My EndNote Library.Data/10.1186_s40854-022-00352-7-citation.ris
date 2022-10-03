@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Critien, Jacques Vella
+AU  - Gatt, Albert
+AU  - Ellul, Joshua
+PY  - 2022
+DA  - 2022/05/05
+TI  - Bitcoin price change and trend prediction through twitter sentiment and data volume
+JO  - Financial Innovation
+SP  - 45
+VL  - 8
+IS  - 1
+AB  - Twitter sentiment has been shown to be useful in predicting whether Bitcoin’s price will increase or decrease. Yet the state-of-the-art is limited to predicting the price direction and not the magnitude of increase/decrease. In this paper, we seek to build on the state-of-the-art to not only predict the direction yet to also predict the magnitude of increase/decrease. We utilise not only sentiment extracted from tweets, but also the volume of tweets. We present results from experiments exploring the relation between sentiment and future price at different temporal granularities, with the goal of discovering the optimal time interval at which the sentiment expressed becomes a reliable indicator of price change. Two different neural network models are explored and evaluated, one based on recurrent nets and one based on convolutional networks. An additional model is presented to predict the magnitude of change, which is framed as a multi-class classification problem. It is shown that this model yields more reliable predictions when used alongside a price trend prediction model. The main research contribution from this paper is that we demonstrate that not only can price direction prediction be made but the magnitude in price change can be predicted with relative accuracy ( 63%).
+SN  - 2199-4730
+UR  - https://doi.org/10.1186/s40854-022-00352-7
+DO  - 10.1186/s40854-022-00352-7
+ID  - Critien2022
+ER  - 
